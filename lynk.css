@@ -1,0 +1,23 @@
+body
+{
+    background-color: salmon;
+}
+h1
+{
+     color: yellow;
+     font-family: Arial,seoge ui black;
+     font-style: bold;
+}
+.link_left
+{
+    width: 40%;
+    height: inherit;
+    background-color: lightgrey;
+    text-align: centre;
+    float:left;
+    color: green;
+}
+.my online classes
+{
+    padding: 10px;
+    border-bottom: 10px solid brown;
